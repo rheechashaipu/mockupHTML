@@ -7,3 +7,11 @@ You've learned a lot about web development so far. I want you to take a moment t
 ---
 
 Your response goes here!
+
+I didn't learn any new skills in this project, as I have already done some coursework that taught me basic HTML and the idea of HTML trees. However, I was able to confirm that I'm at least comfortable with basic HTML considering that I felt no stress in having to look anything up in this project. 
+
+I can't exactly pinpoint the "easiest" part of this project since it was all pretty simple. I suppose the most obvious factor of the project that stood out to me was the lack of a complicated structure to the webpage layout. 
+
+The most difficult aspect of this project was setting up my git repo and remembering the commands to push the project into git. I know this isn't part of the project, but I decided to make the most of this project by using it as an opportunity to go over skills other than HTML.
+
+I'll admit that I actually wanted to procastinate on this project. I knew I could finish it within an hour without breaking a sweat, but for some reason I had a huge urge to bingewatch Daredevil instead of just finishing this project. I had to force myself to remember and thoroughly understand what happens when I indulge in entertainment rather than other constructive activities in order to get back to work. Once I did get back to work however, I had a much easier time focusing and even having fun with finishing the project.
